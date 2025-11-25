@@ -1,0 +1,16 @@
+
+---
+
+# ✅ **requirements.txt (Optimized for Streamlit + PyTorch)**
+
+Here is the correct dependency list:
+
+```txt
+streamlit==1.39.0
+numpy==1.26.4
+pandas==2.2.1
+torch==2.2.1
+joblib==1.3.2
+matplotlib==3.8.0
+seaborn==0.13.2
+scikit-learn==1.4.0
